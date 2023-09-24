@@ -18,17 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Sohit Gore: blog
+title: Sohit Gore blog
 email: sohit.gore1212@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hello everyone, I am Sohit Gore. Although Software Engineer by profession,
-  I have never experienced the feeling of a full blown Engineer.
-  Its because of lack of knowledge of some fundamental concepts, and unfamiliarty 
+  Hello everyone, I am Sohit Gore. Though a Software Engineer by profession,
+  I have never fully experienced the feeling of a full blown Engineer.
+  I always feel I lack knowledge of some fundamental concepts, and unfamiliar 
   with the plethora of stuff existing in the Software Engineering world.
 
   I will be maintaing this site, to share my learnings in the journey of becoming 
-  a self-respectable Engineer.
-  For the love of \'Science\' in Computer Science and \'Engineering\' in Software Engineering
+  an Engineer that I want to be.
+  For the love of 'Science' in Computer Science and 'Engineering' in Software Engineering
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://baba08.in" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Sohit1212
