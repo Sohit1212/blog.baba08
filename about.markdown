@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello everyone, I am Sohit Gore. Though a Software Engineer by profession,
+I have never fully experienced the feeling of a full blown Engineer.
+I always feel I lack knowledge of some fundamental concepts, and unfamiliar 
+with the plethora of stuff existing in the Software Engineering world.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I will be maintaing this site, to share my learnings in the journey of becoming 
+an Engineer that I want to be.
+For the love of 'Science' in Computer Science and 'Engineering' in Software Engineering
 
 
-[jekyll-organization]: https://github.com/jekyll
+[Checkout my Github]: https://github.com/Sohit1212
